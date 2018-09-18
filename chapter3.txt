@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-zmiany 1.3 chpt3 
-=======
-zmiany master1 chpt3 
->>>>>>> master
